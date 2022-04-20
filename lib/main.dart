@@ -40,10 +40,10 @@ class MyApp extends StatelessWidget {
           var u = Provider.of<CartOperation>(context);
 
           return MaterialApp(
-            title: 'Food App',
-            theme: buildThemeData(),
-            home: const MainScreen(),
-          );
+              title: 'Food App',
+              theme: buildThemeData(),
+              home: const MainScreen(),
+              debugShowCheckedModeBanner: false);
         });
   }
 }
