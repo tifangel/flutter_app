@@ -10,6 +10,6 @@ Aplikasi pemesanan makanan sederhana
 <!-- ![](image/1.png)
 ![](image/2.png)
 ![](image/3.png) -->
-<img src="image/1.png" width="150" height="280">
-<img src="image/2.png" width="150" height="280">
-<img src="image/3.png" width="150" height="280">
+<img src="image/1.png" width="280" height="560">
+<img src="image/2.png" width="280" height="560">
+<img src="image/3.png" width="280" height="560">
